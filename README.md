@@ -3,7 +3,6 @@
 
 # seneca-search-test
 
-[![npm version](https://img.shields.io/npm/v/seneca-search-test.svg)](https://npmjs.com/package/seneca-search-test)
 [![build](https://github.com/senecajs/seneca-search-test/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-search-test/actions/workflows/build.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-search-test/badge.svg)](https://snyk.io/test/github/senecajs/seneca-search-test)
 
